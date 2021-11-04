@@ -1,7 +1,7 @@
 # Sliding Puzzle Solver
 ![Gif](https://miro.medium.com/max/1400/1*W7jg4GmEjGBypd9WPktasQ.gif)
 ## Problem
-Our task is to find an 8-puzzle solution. The puzzle consists of 8 numbered squares and one blank space. Fields can be moved up, down, left or right, but only if there is free space in that direction. There is always a starting and a target position and it is necessary to find a sequence of steps that lead from one position to another.
+Our task is to find an n-puzzle solution. The puzzle consists of n numbered squares and one blank space. Fields can be moved up, down, left or right, but only if there is free space in that direction. There is always a starting and a target position and it is necessary to find a sequence of steps that lead from one position to another.
 
 ## Solved using:
 ### Heuristic Function
